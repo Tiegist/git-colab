@@ -1,1 +1,1 @@
-<p class="log">hello from master</p>
+<p>hello resolved problem</p>
